@@ -24,8 +24,8 @@ The purpose of this repository is to provide a varied collection of simple JavaS
 
 The repository includes JavaScript scripts that cover a variety of topics, including but not limited to:
 
-DOM (Document Object Model) Manipulation
-Array and Object Manipulation
-Events and Event Handling
-Functions and Scope
-Control Structures (if, else, for, while)
+* DOM (Document Object Model) Manipulation
+* Array and Object Manipulation
+* Events and Event Handling
+* Functions and Scope
+* Control Structures (if, else, for, while)
