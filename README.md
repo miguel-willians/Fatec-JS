@@ -1,4 +1,4 @@
-# Repositório de Scripts Simples em JavaScript para Aprendizado 🇧🇷
+# Repositório de Scripts Simples em JavaScript para Aprendizado :br:
 
 Bem-vindo! Este repositório foi criado com o propósito de elaborar scripts básicos e intermediários para a praticar e entender os fundamentos da linguagem de programação JavaScript.
 
